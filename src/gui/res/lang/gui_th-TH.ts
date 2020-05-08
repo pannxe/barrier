@@ -1,12 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE TS><TS language="th-TH" sourcelanguage="en" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="th_TH" sourcelanguage="en">
 <context>
     <name>AboutDialogBase</name>
     <message>
         <location filename="res/AboutDialogBase.ui" line="38"/>
         <source>About Barrier</source>
-        <translation type="finished">เกี่ยวกับเรา Barrier</translation>
+        <translation>เกี่ยวกับ Barrier</translation>
     </message>
-    <message utf8="true">
+    <message>
         <location filename="res/AboutDialogBase.ui" line="53"/>
         <source>&lt;p&gt;
 Keyboard and mouse sharing application. Cross platform and open source.&lt;br /&gt;&lt;br /&gt;
@@ -26,22 +28,30 @@ Barrier is based on CosmoSynergy by Richard Lee and Adam Feder.&lt;br /&gt;
 The Barrier GUI is based on QSynergy by Volker Lanz.&lt;br /&gt;&lt;br /&gt;
 Visit our website for help and info (symless.com).
 &lt;/p&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;
+โปรแกรมสำหรับแชร์เมาส์และคีย์บอร์ดระหว่างคอมพิวเตอร์ที่ทั้งคลอสแพลตฟอร์มและโอเพนซอร์ส!&lt;br /&gt;&lt;br /&gt;
+Copyright © 2012-2016 Symless Ltd.&lt;br /&gt;
+Copyright © 2002-2012 Chris Schoeneman, Nick Bolton, Volker Lanz.&lt;br /&gt;&lt;br /&gt;
+Barrier อยู่ภายใต้สัญญา GNU General Public (GPLv2).&lt;br /&gt;&lt;br /&gt;
+Barrier ถูกสร้างบนพื้นฐานของ CosmoSynergy โดย Richard Lee และ Adam Feder.&lt;br /&gt;
+ส่วน GUI ของ Barrier ถูกสร้างบนพื้นฐานของ QSynergy โดย Volker Lanz.&lt;br /&gt;&lt;br /&gt;
+เข้าเว็บของเราเพื่อขอความช่วยเหลือและหาข้อมูลเพิ่มเติม (symless.com).
+&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="res/AboutDialogBase.ui" line="140"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่ทราบ</translation>
     </message>
     <message>
         <location filename="res/AboutDialogBase.ui" line="124"/>
         <source>Version:</source>
-        <translation type="finished">รุ่น:</translation>
+        <translation>เวอร์ชัน:</translation>
     </message>
     <message>
         <location filename="res/AboutDialogBase.ui" line="163"/>
         <source>&amp;Ok</source>
-        <translation type="finished">&amp;ตกลง</translation>
+        <translation>&amp;โอเค</translation>
     </message>
 </context>
 <context>
@@ -49,97 +59,97 @@ Visit our website for help and info (symless.com).
     <message>
         <location filename="res/ActionDialogBase.ui" line="14"/>
         <source>Configure Action</source>
-        <translation type="finished">กำหนดค่าการกระทำ</translation>
+        <translation>กำหนดค่าการกระทำ</translation>
     </message>
     <message>
         <location filename="res/ActionDialogBase.ui" line="20"/>
         <source>Choose the action to perform</source>
-        <translation type="unfinished"></translation>
+        <translation>เลือกการกระทำที่จะทำ</translation>
     </message>
     <message>
         <location filename="res/ActionDialogBase.ui" line="26"/>
         <source>Press a hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>กดฮอตคีย์</translation>
     </message>
     <message>
         <location filename="res/ActionDialogBase.ui" line="36"/>
         <source>Release a hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>ปล่อยฮอตคีย์</translation>
     </message>
     <message>
         <location filename="res/ActionDialogBase.ui" line="43"/>
         <source>Press and release a hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>กดและปล่อยฮอตคีย์</translation>
     </message>
     <message>
         <location filename="res/ActionDialogBase.ui" line="69"/>
         <source>only on these screens</source>
-        <translation type="unfinished"></translation>
+        <translation>เฉพาะบนจอเหล่านี้</translation>
     </message>
     <message>
         <location filename="res/ActionDialogBase.ui" line="119"/>
         <source>Switch to screen</source>
-        <translation type="unfinished"></translation>
+        <translation>สลับไปยังหน้าจอ</translation>
     </message>
     <message>
         <location filename="res/ActionDialogBase.ui" line="150"/>
         <source>Switch in direction</source>
-        <translation type="unfinished"></translation>
+        <translation>เปลี่ยนทิศทาง</translation>
     </message>
     <message>
         <location filename="res/ActionDialogBase.ui" line="174"/>
         <source>left</source>
-        <translation type="finished">ซ้าย</translation>
+        <translation>ซ้าย</translation>
     </message>
     <message>
         <location filename="res/ActionDialogBase.ui" line="179"/>
         <source>right</source>
-        <translation type="finished">ขวา</translation>
+        <translation>ขวา</translation>
     </message>
     <message>
         <location filename="res/ActionDialogBase.ui" line="184"/>
         <source>up</source>
-        <translation type="finished">ขึ้น</translation>
+        <translation>ขึ้น</translation>
     </message>
     <message>
         <location filename="res/ActionDialogBase.ui" line="189"/>
         <source>down</source>
-        <translation type="finished">ลง</translation>
+        <translation>ลง</translation>
     </message>
     <message>
         <location filename="res/ActionDialogBase.ui" line="201"/>
         <source>Lock cursor to screen</source>
-        <translation type="unfinished"></translation>
+        <translation>ล็อกเคอร์เซอร์ไว้กับจอ</translation>
     </message>
     <message>
         <location filename="res/ActionDialogBase.ui" line="225"/>
         <source>toggle</source>
-        <translation type="unfinished"></translation>
+        <translation>สลับ</translation>
     </message>
     <message>
         <location filename="res/ActionDialogBase.ui" line="230"/>
         <source>on</source>
-        <translation type="finished">เปิด</translation>
+        <translation>เปิด</translation>
     </message>
     <message>
         <location filename="res/ActionDialogBase.ui" line="235"/>
         <source>off</source>
-        <translation type="finished">ปิด</translation>
+        <translation>ปิด</translation>
     </message>
     <message>
         <location filename="res/ActionDialogBase.ui" line="248"/>
         <source>This action is performed when</source>
-        <translation type="unfinished"></translation>
+        <translation>การกระทำนี้จะเกิดขึ้นเมื่อ</translation>
     </message>
     <message>
         <location filename="res/ActionDialogBase.ui" line="254"/>
         <source>the hotkey is pressed</source>
-        <translation type="unfinished"></translation>
+        <translation>ฮอตคีย์ถูกกด</translation>
     </message>
     <message>
         <location filename="res/ActionDialogBase.ui" line="264"/>
         <source>the hotkey is released</source>
-        <translation type="unfinished"></translation>
+        <translation>ฮอตคีย์ถูกปล่อย</translation>
     </message>
 </context>
 <context>
@@ -147,17 +157,17 @@ Visit our website for help and info (symless.com).
     <message>
         <location filename="res/AddClientDialogBase.ui" line="20"/>
         <source>Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>กล่องข้อความ</translation>
     </message>
     <message>
         <location filename="res/AddClientDialogBase.ui" line="35"/>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>Label ข้อความ</translation>
     </message>
     <message>
         <location filename="res/AddClientDialogBase.ui" line="83"/>
         <source>Ignore auto connect clients</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สนใจไคลเอนต์ที่ auto connect เข้ามา</translation>
     </message>
 </context>
 <context>
@@ -165,7 +175,7 @@ Visit our website for help and info (symless.com).
     <message>
         <location filename="res/HotkeyDialogBase.ui" line="14"/>
         <source>Hotkey</source>
-        <translation type="unfinished"></translation>
+        <translation>ฮอตคีย์</translation>
     </message>
     <message>
         <location filename="res/HotkeyDialogBase.ui" line="20"/>
@@ -178,133 +188,133 @@ Visit our website for help and info (symless.com).
     <message>
         <location filename="src/MainWindow.cpp" line="790"/>
         <source>&amp;Start</source>
-        <translation type="finished">&amp;เริ่มต้น</translation>
+        <translation>&amp;เริ่ม</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="237"/>
         <source>&amp;File</source>
-        <translation type="finished">&amp;ไฟล์</translation>
+        <translation>&amp;ไฟล์</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="238"/>
         <source>&amp;Edit</source>
-        <translation type="finished">&amp;แก้ไข</translation>
+        <translation>&amp;แก้ไข</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="239"/>
         <source>&amp;Window</source>
-        <translation type="finished">&amp;หน้าต่าง</translation>
+        <translation>&amp;หน้าต่าง</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="240"/>
         <source>&amp;Help</source>
-        <translation type="finished">&amp;ช่วยเหลือ</translation>
+        <translation>&amp;ช่วยเหลือ</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="364"/>
         <source>&lt;p&gt;Your version of Barrier is out of date. Version &lt;b&gt;%1&lt;/b&gt; is now available to &lt;a href=&quot;%2&quot;&gt;download&lt;/a&gt;.&lt;/p&gt;</source>
         <oldsource>&lt;p&gt;Version %1 is now available, &lt;a href=&quot;%2&quot;&gt;visit website&lt;/a&gt;.&lt;/p&gt;</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Barrier ของคุณล้าสมัยแล้ว ตอนนี้มีเวอร์ชัน &lt;b&gt;%1&lt;/b&gt; ออกมาใหม่ &lt;a href=&quot;%2&quot;&gt;ดาวน์โหลดได้ที่นี่&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="577"/>
         <source>Program can not be started</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถเริ่มโปรแกรมได้</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="577"/>
         <source>The executable&lt;br&gt;&lt;br&gt;%1&lt;br&gt;&lt;br&gt;could not be successfully started, although it does exist. Please check if you have sufficient permissions to run this program.</source>
-        <translation type="unfinished"></translation>
+        <translation>พบไฟล์&lt;br&gt;&lt;br&gt;%1&lt;br&gt;&lt;br&gt;แต่ไม่สามารถเริ่มทำงานได้ โปรดตรวจสอบว่าไฟล์ดังกล่าวได้รับการอนุญาตถูกต้องหรือไม่</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="596"/>
         <source>Barrier client not found</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบไคลน์เอน</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="597"/>
         <source>The executable for the barrier client does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบไฟล์ executable ของเครื่องไคลน์เอนต์</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="625"/>
         <source>Hostname is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>Hostname ว่างอยู่</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="626"/>
         <source>Please fill in a hostname for the barrier client to connect to.</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรดใส่ hostname ที่ต้องการให้ barrier เชื่อมต่อ</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="646"/>
         <source>Cannot write configuration file</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถเขียนไฟล์การตั้งค่าได้</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="646"/>
         <source>The temporary configuration file required to start barrier can not be written.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถเขียนไฟล์การตั้งค่าชั่วคราวที่จำเป็นต่อการเริ่ม barrier ได้</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="659"/>
         <source>Configuration filename invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อไฟล์การตั้งค่าไม่ถูกต้อง</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="660"/>
         <source>You have not filled in a valid configuration file for the barrier server. Do you want to browse for the configuration file now?</source>
-        <translation type="unfinished"></translation>
+        <translation>คุณไม่ได้ใส่ไฟล์การตั้งค่าที่ถูกต้องสำหรับเครื่องเซิร์ฟเวอร์ ต้องการหาไฟล์การตั้งค่าไหม?</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="688"/>
         <source>Barrier server not found</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบเซิร์ฟเวอร์ barrier</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="689"/>
         <source>The executable for the barrier server does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่พบไฟล์ executable ของเครื่องเซิร์ฟเวอร์</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="764"/>
         <source>Barrier terminated with an error</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrier หยุดทำงานโดยมีข้อผิดพลาด</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="764"/>
         <source>Barrier terminated unexpectedly with an exit code of %1.&lt;br&gt;&lt;br&gt;Please see the log output for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrier หยุดทำงานโดยมี exit code %1 &lt;br&gt;&lt;br&gt;โปรดตรวจสอบไฟล์ log สำหรับข้อมูลเพิ่มเติม</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="783"/>
         <source>&amp;Stop</source>
-        <translation type="finished">&amp;หยุด</translation>
+        <translation>&amp;หยุด</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="1038"/>
         <source>Please add the server (%1) to the grid.</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรดเพิ่มเครื่องเซิร์ฟเวอร์ (%1) ไปยังช่องตาราง</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="1044"/>
         <source>Please drag the new client screen (%1) to the desired position on the grid.</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรดลากจอไคลน์เอนต์ใหม่ (%1) ไปยังตำแหน่งที่ต้องการในช่องตาราง</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="1147"/>
         <source>Failed to detect system architecture.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถตรวจหาสถาปัตยกรรมของระบบได้</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="1165"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="1189"/>
         <source>Failed to download Bonjour installer to location: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถดาวน์โหลดตัวติดตั้ง Bonjour ไปยัง %1 ได้</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="1226"/>
@@ -318,34 +328,35 @@ This feature helps you establish the connection.</source>
         <source>Auto config feature requires Bonjour.
 
 Do you want to install Bonjour?</source>
-        <translation type="unfinished"></translation>
+        <translation>การตั้งค่าอัตโนมัติต้องใช้โปรแกรม Bonjour
+ทำการติดตั้ง Bonjour ไหม?</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="815"/>
         <source>Barrier is starting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrier กำลังเริ่มการทำงาน</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="809"/>
         <source>Barrier is running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrier กำลังทำงานอยู่</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="819"/>
         <source>Barrier is not running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrier ไม่ได้ทำงานอยู่</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="870"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่ทราบ</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="1146"/>
         <location filename="src/MainWindow.cpp" line="1225"/>
         <location filename="src/MainWindow.cpp" line="1269"/>
         <source>Barrier</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrier</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="987"/>
@@ -355,12 +366,12 @@ Do you want to install Bonjour?</source>
     <message>
         <location filename="src/MainWindow.cpp" line="408"/>
         <source>Barrier is now connected, You can close the config window. Barrier will remain connected in the background.</source>
-        <translation type="unfinished"></translation>
+        <translation>Barrier ได้ทำการเชื่อมต่อแล้ว คุณสามารถปิดหน้าการตั้งค่าได้โดยที่โปรแกรมจะยังคงทำงานอยู่เบื่องหลัง</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="434"/>
         <source>Security question</source>
-        <translation type="unfinished"></translation>
+        <translation>คำถามเพื่อความปลอดภัย</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="435"/>
@@ -368,7 +379,7 @@ Do you want to install Bonjour?</source>
 
 %1
 
-This is a server fingerprint. You should compare this fingerprint to the one on your server's screen. If the two don't match exactly, then it's probably not the server you're expecting (it could be a malicious user).
+This is a server fingerprint. You should compare this fingerprint to the one on your server&apos;s screen. If the two don&apos;t match exactly, then it&apos;s probably not the server you&apos;re expecting (it could be a malicious user).
 
 To automatically trust this fingerprint for future connections, click Yes. To reject this fingerprint and disconnect from the server, click No.</source>
         <translation type="unfinished"></translation>
@@ -376,12 +387,12 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="src/MainWindow.cpp" line="1000"/>
         <source>Save configuration as...</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกไฟล์การตั้งค่าเป็น</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="1004"/>
         <source>Save failed</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถบันทึกได้</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="1004"/>
@@ -398,7 +409,7 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     </message>
     <message>
         <location filename="res/MainWindowBase.ui" line="90"/>
-        <source>Ser&amp;ver (share this computer's mouse and keyboard):</source>
+        <source>Ser&amp;ver (share this computer&apos;s mouse and keyboard):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -415,7 +426,7 @@ To automatically trust this fingerprint for future connections, click Yes. To re
         <location filename="res/MainWindowBase.ui" line="380"/>
         <location filename="res/MainWindowBase.ui" line="409"/>
         <source>&amp;Start</source>
-        <translation type="finished">&amp;เริ่มต้น</translation>
+        <translation>&amp;เริ่มต้น</translation>
     </message>
     <message>
         <location filename="res/MainWindowBase.ui" line="181"/>
@@ -445,12 +456,12 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="res/MainWindowBase.ui" line="350"/>
         <source>Ready</source>
-        <translation type="finished">พร้อมแล้ว</translation>
+        <translation>พร้อมแล้ว</translation>
     </message>
     <message>
         <location filename="res/MainWindowBase.ui" line="296"/>
         <source>Log</source>
-        <translation type="finished">บันทึกการเปลี่ยนแปลง</translation>
+        <translation>บันทึกการเปลี่ยนแปลง</translation>
     </message>
     <message>
         <location filename="res/MainWindowBase.ui" line="373"/>
@@ -469,7 +480,7 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     </message>
     <message>
         <location filename="res/MainWindowBase.ui" line="228"/>
-        <source>&amp;Client (use another computer's mouse and keyboard):</source>
+        <source>&amp;Client (use another computer&apos;s mouse and keyboard):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -485,17 +496,17 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="res/MainWindowBase.ui" line="398"/>
         <source>&amp;Quit</source>
-        <translation type="finished">&amp;ออก</translation>
+        <translation>&amp;ออก</translation>
     </message>
     <message>
         <location filename="res/MainWindowBase.ui" line="401"/>
         <source>Quit</source>
-        <translation type="finished">ออก</translation>
+        <translation>ออก</translation>
     </message>
     <message>
         <location filename="res/MainWindowBase.ui" line="412"/>
         <source>Run</source>
-        <translation type="finished">เปิดทำงาน</translation>
+        <translation>เปิดทำงาน</translation>
     </message>
     <message>
         <location filename="res/MainWindowBase.ui" line="423"/>
@@ -505,7 +516,7 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="res/MainWindowBase.ui" line="426"/>
         <source>Stop</source>
-        <translation type="finished">หยุด</translation>
+        <translation>หยุด</translation>
     </message>
     <message>
         <location filename="res/MainWindowBase.ui" line="434"/>
@@ -515,22 +526,22 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="res/MainWindowBase.ui" line="442"/>
         <source>&amp;Hide</source>
-        <translation type="finished">&amp;ซ่อน</translation>
+        <translation>&amp;ซ่อน</translation>
     </message>
     <message>
         <location filename="res/MainWindowBase.ui" line="445"/>
         <source>Hide</source>
-        <translation type="finished">ซ๋อน</translation>
+        <translation>ซ๋อน</translation>
     </message>
     <message>
         <location filename="res/MainWindowBase.ui" line="453"/>
         <source>&amp;Show</source>
-        <translation type="finished">&amp;แสดง</translation>
+        <translation>&amp;แสดง</translation>
     </message>
     <message>
         <location filename="res/MainWindowBase.ui" line="456"/>
         <source>Show</source>
-        <translation type="finished">แสดง</translation>
+        <translation>แสดง</translation>
     </message>
     <message>
         <location filename="res/MainWindowBase.ui" line="464"/>
@@ -545,12 +556,12 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="res/MainWindowBase.ui" line="475"/>
         <source>Settings</source>
-        <translation type="finished">ตั้งค่า</translation>
+        <translation>ตั้งค่า</translation>
     </message>
     <message>
         <location filename="res/MainWindowBase.ui" line="478"/>
         <source>Edit settings</source>
-        <translation type="finished">แก้ไขการตั้งค่า</translation>
+        <translation>แก้ไขการตั้งค่า</translation>
     </message>
     <message>
         <location filename="res/MainWindowBase.ui" line="486"/>
@@ -563,7 +574,7 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="src/NewScreenWidget.cpp" line="32"/>
         <source>Unnamed</source>
-        <translation type="finished">ยังไม่มีชื่อ</translation>
+        <translation>ยังไม่มีชื่อ</translation>
     </message>
 </context>
 <context>
@@ -571,28 +582,29 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="src/PluginManager.cpp" line="58"/>
         <source>Failed to get plugin directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถเข้าถึงไดเรกทอรีปลั๊กอินได้</translation>
     </message>
     <message>
         <location filename="src/PluginManager.cpp" line="63"/>
         <source>Failed to get profile directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถเข้าถึงไดเรกทอรีโปรไฟล์ได้</translation>
     </message>
     <message>
         <location filename="src/PluginManager.cpp" line="136"/>
-        <source>Failed to download plugin '%1' to: %2
+        <source>Failed to download plugin &apos;%1&apos; to: %2
 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถดาวน์โหลดปลั๊กอิน &apos;%1 ไปยัง %2 ได้
+%3</translation>
     </message>
     <message>
         <location filename="src/PluginManager.cpp" line="167"/>
         <source>Could not get Windows architecture type.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถหาสถาปัตยกรรมของวินโดวส์ได้</translation>
     </message>
     <message>
         <location filename="src/PluginManager.cpp" line="191"/>
         <source>Could not get Linux architecture type.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถหาสถาปัตยกรรมของลินุกซ์ได้</translation>
     </message>
 </context>
 <context>
@@ -600,48 +612,48 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="res/PluginWizardPageBase.ui" line="14"/>
         <source>Setup Barrier</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้ง Barrier</translation>
     </message>
     <message>
         <location filename="res/PluginWizardPageBase.ui" line="101"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation>โปรดรอสักครู่</translation>
     </message>
     <message>
         <location filename="src/PluginWizardPage.cpp" line="72"/>
         <source>Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ผิดพลาด: %1</translation>
     </message>
     <message>
         <location filename="src/PluginWizardPage.cpp" line="80"/>
         <location filename="src/PluginWizardPage.cpp" line="201"/>
         <source>Setup complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งสำเร็จ</translation>
     </message>
     <message>
         <location filename="src/PluginWizardPage.cpp" line="93"/>
-        <source>Downloading '%1' plugin (%2/%3)...</source>
-        <translation type="unfinished"></translation>
+        <source>Downloading &apos;%1&apos; plugin (%2/%3)...</source>
+        <translation>กำลังดาวน์โหลดปลั๊กอิน &apos;%1&apos; (%2/%3)...</translation>
     </message>
     <message>
         <location filename="src/PluginWizardPage.cpp" line="104"/>
         <source>Plugins installed successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้งปลั๊กอินสำเร็จ</translation>
     </message>
     <message>
         <location filename="src/PluginWizardPage.cpp" line="120"/>
         <source>Generating SSL certificate...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังสร้าง SSL certificate...</translation>
     </message>
     <message>
         <location filename="src/PluginWizardPage.cpp" line="170"/>
         <source>Downloading plugin: %1 (1/%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังดาวน์โหลดปลั๊กอิน &apos;%1&apos; (%2/%3)...</translation>
     </message>
     <message>
         <location filename="src/PluginWizardPage.cpp" line="239"/>
         <source>Getting plugin list...</source>
-        <translation type="unfinished"></translation>
+        <translation>กำลังอ่านรายการปลั๊กอิน</translation>
     </message>
 </context>
 <context>
@@ -649,17 +661,17 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="src/MainWindow.cpp" line="60"/>
         <source>Barrier Configurations (*.sgc);;All files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์การตั้งค่าของ Barrier (*.sgc);;ไฟล์ทั้งหมด (*.*)</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="67"/>
         <source>Barrier Configurations (*.conf);;All files (*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>ไฟล์การตั้งค่าของ Barrier (*.conf);;ไฟล์ทั้งหมด (*.*)</translation>
     </message>
     <message>
         <location filename="src/main.cpp" line="119"/>
         <source>System tray is unavailable, quitting.</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่สามารถเรียก System tray ได้; กำลังออก</translation>
     </message>
 </context>
 <context>
@@ -667,22 +679,23 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="src/ScreenSettingsDialog.cpp" line="67"/>
         <source>Screen name is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อหน้าจอว่างอยู่</translation>
     </message>
     <message>
         <location filename="src/ScreenSettingsDialog.cpp" line="68"/>
         <source>The screen name cannot be empty. Please either fill in a name or cancel the dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อหน้าจอไม่สามารถว่างได้ โปรดใส่ชื่อหรือกดยกเลิก</translation>
     </message>
     <message>
         <location filename="src/ScreenSettingsDialog.cpp" line="83"/>
         <source>Screen name matches alias</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Not completely sure about the context, shoud be correct.</translatorcomment>
+        <translation>ชื่อหน้าจอซ้ำกับชื่อย่อที่มีอยู่แล้ว</translation>
     </message>
     <message>
         <location filename="src/ScreenSettingsDialog.cpp" line="84"/>
         <source>The screen name cannot be the same as an alias. Please either remove the alias or change the screen name.</source>
-        <translation type="unfinished"></translation>
+        <translation>ชื่อหน้าจอไม่สามารถซ้ำกับชื่อย่อที่มีอยู่แล้วได้ โปรดใส่ชื่อหรือกดยกเลิก</translation>
     </message>
 </context>
 <context>
@@ -690,7 +703,7 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="res/ScreenSettingsDialogBase.ui" line="14"/>
         <source>Screen Settings</source>
-        <translation type="finished">ตั้งค่าหน้าจอ</translation>
+        <translation>ตั้งค่าหน้าจอ</translation>
     </message>
     <message>
         <location filename="res/ScreenSettingsDialogBase.ui" line="22"/>
@@ -705,12 +718,12 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="res/ScreenSettingsDialogBase.ui" line="57"/>
         <source>&amp;Add</source>
-        <translation type="finished">&amp;เพิ่ม</translation>
+        <translation>&amp;เพิ่ม</translation>
     </message>
     <message>
         <location filename="res/ScreenSettingsDialogBase.ui" line="74"/>
         <source>&amp;Remove</source>
-        <translation type="finished">&amp;ลบออก</translation>
+        <translation>&amp;ลบออก</translation>
     </message>
     <message>
         <location filename="res/ScreenSettingsDialogBase.ui" line="97"/>
@@ -729,7 +742,7 @@ To automatically trust this fingerprint for future connections, click Yes. To re
         <location filename="res/ScreenSettingsDialogBase.ui" line="258"/>
         <location filename="res/ScreenSettingsDialogBase.ui" line="305"/>
         <source>Shift</source>
-        <translation type="finished">Shift</translation>
+        <translation>Shift</translation>
     </message>
     <message>
         <location filename="res/ScreenSettingsDialogBase.ui" line="122"/>
@@ -738,7 +751,7 @@ To automatically trust this fingerprint for future connections, click Yes. To re
         <location filename="res/ScreenSettingsDialogBase.ui" line="263"/>
         <location filename="res/ScreenSettingsDialogBase.ui" line="310"/>
         <source>Ctrl</source>
-        <translation type="finished">Ctrl</translation>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <location filename="res/ScreenSettingsDialogBase.ui" line="127"/>
@@ -747,7 +760,7 @@ To automatically trust this fingerprint for future connections, click Yes. To re
         <location filename="res/ScreenSettingsDialogBase.ui" line="268"/>
         <location filename="res/ScreenSettingsDialogBase.ui" line="315"/>
         <source>Alt</source>
-        <translation type="finished">Alt</translation>
+        <translation>Alt</translation>
     </message>
     <message>
         <location filename="res/ScreenSettingsDialogBase.ui" line="132"/>
@@ -857,7 +870,7 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="src/ScreenSetupModel.cpp" line="51"/>
         <source>&lt;center&gt;Screen: &lt;b&gt;%1&lt;/b&gt;&lt;/center&gt;&lt;br&gt;Double click to edit settings&lt;br&gt;Drag screen to the trashcan to remove it</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;center&gt;หน้าจอ: &lt;b&gt;%1&lt;/b&gt;&lt;/center&gt;&lt;br&gt;ดับเบิลคลิกเพื่อแก้ไขการตั้งค่า&lt;br&gt;ลากหน้าจอไปใส่ถังขยะเพื่อลบออก</translation>
     </message>
 </context>
 <context>
@@ -865,7 +878,7 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="src/ServerConfigDialog.cpp" line="75"/>
         <source>Configure server</source>
-        <translation type="unfinished"></translation>
+        <translation>ตั้งค่าเซิร์ฟเวอร์</translation>
     </message>
 </context>
 <context>
@@ -920,12 +933,12 @@ Double click on a screen to edit its settings.</source>
     <message>
         <location filename="res/ServerConfigDialogBase.ui" line="185"/>
         <source>&amp;Edit</source>
-        <translation type="finished">&amp;แก้ไข</translation>
+        <translation>&amp;แก้ไข</translation>
     </message>
     <message>
         <location filename="res/ServerConfigDialogBase.ui" line="195"/>
         <source>&amp;Remove</source>
-        <translation type="finished">&amp;ลบออก</translation>
+        <translation>&amp;ลบออก</translation>
     </message>
     <message>
         <location filename="res/ServerConfigDialogBase.ui" line="218"/>
@@ -996,7 +1009,7 @@ Double click on a screen to edit its settings.</source>
     </message>
     <message>
         <location filename="res/ServerConfigDialogBase.ui" line="490"/>
-        <source>Don't take &amp;foreground window on Windows servers</source>
+        <source>Don&apos;t take &amp;foreground window on Windows servers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1040,7 +1053,7 @@ Double click on a screen to edit its settings.</source>
     <message>
         <location filename="src/SettingsDialog.cpp" line="131"/>
         <source>Save log file to...</source>
-        <translation type="unfinished"></translation>
+        <translation>บันทึกไฟล์ log ไปยัง...</translation>
     </message>
     <message>
         <location filename="src/SettingsDialog.cpp" line="151"/>
@@ -1060,7 +1073,7 @@ This allows Barrier to interact with elevated processes and the UAC dialog, but 
     <message>
         <location filename="res/SettingsDialogBase.ui" line="14"/>
         <source>Settings</source>
-        <translation type="finished">ตั้งค่า</translation>
+        <translation>ตั้งค่า</translation>
     </message>
     <message>
         <location filename="res/SettingsDialogBase.ui" line="32"/>
@@ -1145,7 +1158,7 @@ This allows Barrier to interact with elevated processes and the UAC dialog, but 
     <message>
         <location filename="res/SettingsDialogBase.ui" line="228"/>
         <source>Info</source>
-        <translation type="finished">ข้อมูล</translation>
+        <translation>ข้อมูล</translation>
     </message>
     <message>
         <location filename="res/SettingsDialogBase.ui" line="233"/>
@@ -1186,85 +1199,89 @@ This allows Barrier to interact with elevated processes and the UAC dialog, but 
     <message>
         <location filename="res/SetupWizardBase.ui" line="26"/>
         <source>Setup Barrier</source>
-        <translation type="unfinished"></translation>
+        <translation>ติดตั้ง Barrier</translation>
     </message>
     <message>
         <location filename="res/SetupWizardBase.ui" line="30"/>
         <source>Welcome</source>
-        <translation type="unfinished"></translation>
+        <translation>ยินดีต้อนรับ</translation>
     </message>
     <message>
         <location filename="res/SetupWizardBase.ui" line="39"/>
         <source>Thanks for installing Barrier!</source>
-        <translation type="unfinished"></translation>
+        <translation>ขอบคุณที่เลือก Barrier</translation>
     </message>
     <message>
         <location filename="res/SetupWizardBase.ui" line="114"/>
-        <source>Barrier lets you easily share your mouse and keyboard between multiple computers on your desk, and it's Free and Open Source. Just move your mouse off the edge of one computer's screen on to another. You can even share all of your clipboards. All you need is a network connection. Barrier is cross-platform (works on Windows, Mac OS X and Linux).</source>
-        <translation type="finished">Barrier ช่วยให้คุณสามารถแบ่งปันเมาส์และแป้นพิมพ์ระหว่างคอมพิวเตอร์หลายเครื่องบนโต๊ะทำงานของคุณและก็ฟรีและ Open Source เพียงแค่เลื่อนเมาส์ของคุณปิดขอบของหน้าจอคอมพิวเตอร์เครื่องหนึ่งของเมื่อไปยังอีก คุณยังสามารถแบ่งปันทั้งหมดของ clipboards ของคุณ ทั้งหมดที่คุณต้องมีการเชื่อมต่อเครือข่าย Barrier เป็นข้ามแพลตฟอร์ม (เมื่อใช้งานบน Windows, Mac OS X และ Linux)</translation>
+        <source>Barrier lets you easily share your mouse and keyboard between multiple computers on your desk, and it&apos;s Free and Open Source. Just move your mouse off the edge of one computer&apos;s screen on to another. You can even share all of your clipboards. All you need is a network connection. Barrier is cross-platform (works on Windows, Mac OS X and Linux).</source>
+        <translation>Barrier ช่วยให้คุณสามารถแบ่งปันเมาส์และแป้นพิมพ์ระหว่างคอมพิวเตอร์หลายเครื่องบนโต๊ะทำงานของคุณ ฟรีและโอเพนซอร์ส เพียงแค่เลื่อนเมาส์ของคุณผ่านขอบจอเครื่องหนึ่งไปยังอีกเครื่องหนึ่ง  คุณยังสามารถแบ่งปันข้อมูลใน clipboards ระหว่างเครื่องได้อีกด้วย  สิ่งที่คุณต้องมีก็แค่การเชื่อมต่อเน็ตเวิร์คระหว่างคอมพิวเตอร์  Barrier เป็นซอร์ฟแวร์ข้ามแพลตฟอร์มที่ใช้งานได้ทั้งบน Windows, Mac OS X และ Linux</translation>
     </message>
     <message>
         <location filename="res/SetupWizardBase.ui" line="125"/>
         <source>Activate</source>
-        <translation type="unfinished"></translation>
+        <translation>เปิดใช้งาน</translation>
     </message>
     <message>
         <location filename="res/SetupWizardBase.ui" line="131"/>
         <source>&amp;Activate now...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;เปิดใช้งานตอนนี้...</translation>
     </message>
     <message>
         <location filename="res/SetupWizardBase.ui" line="152"/>
         <source>Email:</source>
-        <translation type="unfinished"></translation>
+        <translation>อีเมล:</translation>
     </message>
     <message>
         <location filename="res/SetupWizardBase.ui" line="178"/>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>รหัสผ่าน:</translation>
     </message>
     <message>
         <location filename="res/SetupWizardBase.ui" line="204"/>
         <source>&lt;a href=&quot;https://symless.com/account/reset/&quot;&gt;Forgot password&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;https://symless.com/account/reset/&quot;&gt;ลืมรหัสผ่าน&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="res/SetupWizardBase.ui" line="232"/>
         <source>&amp;Skip activation</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ข้ามการเปิดใช้งาน</translation>
     </message>
     <message>
         <location filename="res/SetupWizardBase.ui" line="277"/>
-        <source>&amp;Server (share this computer's mouse and keyboard)</source>
-        <translation type="unfinished"></translation>
+        <source>&amp;Server (share this computer&apos;s mouse and keyboard)</source>
+        <translation>&amp;เซิฟเวอร์ (ใช้เมาท์และคีย์บอร์ดของคอมพิวเตอร์เครื่องนี้ควบคุม)</translation>
     </message>
     <message>
         <location filename="res/SetupWizardBase.ui" line="290"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;My main mouse and keyboard are connected to this computer. This will allow you to move your mouse over to another computer's screen. There can only be one server in your setup.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;My main mouse and keyboard are connected to this computer. This will allow you to move your mouse over to another computer&apos;s screen. There can only be one server in your setup.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished">&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;My main mouse and keyboard are connected to this computer. This will allow you to move your mouse over to another computer&apos;s screen. There can only be one server in your setup.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="res/SetupWizardBase.ui" line="326"/>
-        <source>&amp;Client (use another computer's mouse and keyboard)</source>
-        <translation type="unfinished"></translation>
+        <source>&amp;Client (use another computer&apos;s mouse and keyboard)</source>
+        <translation>&amp;ไคลน์เอนต์ (ใช้เมาส์และคีย์บอร์ดของคอมพิวเตอร์อื่น)</translation>
     </message>
     <message>
         <location filename="res/SetupWizardBase.ui" line="339"/>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;You have already set up a server. This computer will be controlled using the server's mouse and keyboard. There can be many clients in your setup.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;MS Shell Dlg 2&apos;; font-size:8.25pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:8pt;&quot;&gt;You have already set up a server. This computer will be controlled using the server&apos;s mouse and keyboard. There can be many clients in your setup.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="res/SetupWizardBase.ui" line="262"/>
         <source>Server or Client?</source>
-        <translation type="unfinished"></translation>
+        <translation>เซิร์ฟเวอร์หรือไคลน์เอนต์?</translation>
     </message>
 </context>
 <context>
@@ -1295,7 +1312,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/VersionChecker.cpp" line="102"/>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>ไม่ทราบ</translation>
     </message>
 </context>
 <context>
